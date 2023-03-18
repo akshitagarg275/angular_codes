@@ -1,0 +1,3 @@
+index.html --> It contains  <base href="/">
+							<app-root></app-root>
+							
